@@ -23,14 +23,6 @@ public class PrepareMeal {
         Scanner scanner = new Scanner(System.in);
         double charge = 0;
 
-
         menu.order(scanner);
-
-//            if (!name.equalsIgnoreCase("quit")) {
-//                System.out.println("You have choosen " + name + ". Bon Appetite!");
-//            }else {
-//                break;
-//            }
-
     }
 }
